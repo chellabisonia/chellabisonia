@@ -13,5 +13,5 @@ I am Sonia, a passionate web developper from Paris.
 Some tools I have used and learned:
 
 
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
           
