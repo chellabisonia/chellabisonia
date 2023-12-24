@@ -10,9 +10,13 @@ I am Sonia, a passionate web developper from Paris.
 [![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellabisonia)](https://github.com/bltomlin/github-readme-stats)
 
 
+
 Some tools I have used and learned:
 
 
+
+<img align="left" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+          
 <img align="left" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 
 <img  align="left" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -20,6 +24,7 @@ Some tools I have used and learned:
 <img align="left" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 <img align="left" width="55px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
 
           
           
