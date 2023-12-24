@@ -2,7 +2,7 @@
 
 I am Sonia, a passionate web developper from Paris.
 
-<!--
+
 **chellabisonia/chellabisonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently studying at Ada Tech School in Paris
@@ -12,4 +12,3 @@ I am Sonia, a passionate web developper from Paris.
 - 📫 How to reach me: Message me on LinkedIn
 - ⚡ Fun fact: ...
 [![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellabisonia)](https://github.com/bltomlin/github-readme-stats)
--->
