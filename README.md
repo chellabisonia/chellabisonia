@@ -8,3 +8,10 @@ I am Sonia, a passionate web developper from Paris.
 - 📫 How to reach me: Message me on LinkedIn
 
 [![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellabisonia)](https://github.com/bltomlin/github-readme-stats)
+
+
+Some tools I have used and learned:
+
+
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+          
