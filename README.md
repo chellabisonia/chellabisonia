@@ -19,9 +19,6 @@ here</a>
 
 <br>
 <br>
-<br>
-
-
 
 <h2> Some Tools I Have Used And Learned:</h2>
 
