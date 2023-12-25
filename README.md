@@ -1,4 +1,5 @@
 ### Hi there 👋 ,
+<br>
 
 <h1>👩🏽‍💻 A Little Bit About Me</h1>
 
@@ -10,11 +11,15 @@ I am Sonia, a passionate web developper from Paris.
 - 📫 How to reach me: Message me on LinkedIn <a href="https://www.linkedin.com/in/chellabisonia/">
 here</a>
 
-          
+<br>
+<br>
+<br>  
 
 [![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellabisonia)](https://github.com/bltomlin/github-readme-stats)
 
-
+<br>
+<br>
+<br>
 
 
 
