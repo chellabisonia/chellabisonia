@@ -12,12 +12,9 @@ I am Sonia, a passionate web developper from Paris.
 here</a>
 
 <br>
-<br>
-<br>  
 
 [![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellabisonia)](https://github.com/bltomlin/github-readme-stats)
 
-<br>
 <br>
 
 <h2> Some Tools I Have Used And Learned:</h2>
