@@ -1,5 +1,7 @@
 ### Hi there 👋 ,
 
+<h1>👩🏽‍💻 A Little Bit About Me</h1>
+
 I am Sonia, a passionate web developper from Paris.
 
 - 🔭 I’m currently studying at Ada Tech School in Paris
