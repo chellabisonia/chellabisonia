@@ -4,11 +4,11 @@
 
 I am Sonia, a passionate web developper from Paris.
 
-- 🔭 I’m currently studying at Ada Tech School in Paris
-- 🌱 I’m currently learning ReactJS and React Native
-- 🤔 I’m looking for an internship as a Front-end developper 
+- 🔭 I’m currently studying at Ada Tech School in Paris.
+- 🌱 I’m currently learning ReactJS and React Native.
+- 🤔 I’m looking for an internship as a Front-End developper 
 - 📫 How to reach me: Message me on LinkedIn <a href="https://www.linkedin.com/in/chellabisonia/">
-<img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+here</a>
 
           
 
