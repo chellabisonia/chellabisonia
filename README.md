@@ -5,8 +5,8 @@
 I am Sonia, a passionate web developper from Paris.
 
 - 🔭 I’m currently studying at Ada Tech School in Paris. My goal is to obtain the RNCP level in web developpement, equivalent to a Bac + 3.
-- 🌱 I’m currently learning ReactJS and TypeScript. In the long term, I would like to broaden my field of learning and contineously get out of my comfort zone. 
-- 🤔 I’m looking for an apprenticeship as a Front-End developper. I have to admit that the user experience appeals to me a lot. I like satisfy customers and above all I like to have a visual rendering that makes people want to see it.
+- 🌱 I’m currently learning Java, Spring Boot and React Js. In the long term, I would like to broaden my field of learning and contineously get out of my comfort zone. 
+- 🤔 I have to admit that the user experience appeals to me a lot. I like satisfy customers and above all I like to have a visual rendering that makes people want to see it.
 - 📫 How to reach me: Message me on LinkedIn <a href="https://www.linkedin.com/in/chellabisonia/">
 here</a>
 
